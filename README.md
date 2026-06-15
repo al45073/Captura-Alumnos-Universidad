@@ -4,7 +4,6 @@
 
 CSS (Cascading Style Sheets) es un lenguaje utilizado para dar estilo y mejorar la apariencia visual de las páginas web. Entre sus múltiples herramientas se encuentran las propiedades **box-shadow** y **text-shadow**, las cuales permiten agregar sombras a elementos y textos, haciendo que el diseño sea más atractivo y profesional.
 
----
 
 ## Propiedad Box-Shadow
 
@@ -12,9 +11,8 @@ La propiedad **box-shadow** se utiliza para agregar una sombra alrededor de un e
 
 ### Sintaxis
 
-```css
+css
 box-shadow: desplazamiento-x desplazamiento-y desenfoque expansión color;
-```
 
 ### Componentes
 
@@ -26,9 +24,8 @@ box-shadow: desplazamiento-x desplazamiento-y desenfoque expansión color;
 
 ### Ejemplo
 
-```css
+css
 box-shadow: 5px 5px 10px gray;
-```
 
 ### Ventajas
 
@@ -37,7 +34,6 @@ box-shadow: 5px 5px 10px gray;
 * Genera sensación de profundidad.
 * Hace que los formularios y botones sean más atractivos.
 
----
 
 ## Propiedad Text-Shadow
 
@@ -45,9 +41,8 @@ La propiedad **text-shadow** permite agregar sombras a los textos de una página
 
 ### Sintaxis
 
-```css
+css
 text-shadow: desplazamiento-x desplazamiento-y desenfoque color;
-```
 
 ### Componentes
 
@@ -57,10 +52,7 @@ text-shadow: desplazamiento-x desplazamiento-y desenfoque color;
 * **color:** Color de la sombra.
 
 ### Ejemplo
-
-```css
 text-shadow: 2px 2px 4px black;
-```
 
 ### Ventajas
 
@@ -69,8 +61,6 @@ text-shadow: 2px 2px 4px black;
 * Proporciona un diseño más moderno y llamativo.
 * Permite crear efectos visuales atractivos.
 
----
-
 ## Aplicación en el Proyecto
 
 En la página de modificación de alumnos se aplicaron estas propiedades para mejorar la presentación visual:
@@ -78,8 +68,6 @@ En la página de modificación de alumnos se aplicaron estas propiedades para me
 * Se utilizó **text-shadow** en el título principal y en las etiquetas del formulario.
 * Se utilizó **box-shadow** en el formulario, los campos de entrada y los botones.
 * También se agregaron efectos al pasar el cursor sobre los elementos para mejorar la experiencia del usuario.
-
----
 
 ## Conclusión
 
@@ -92,10 +80,6 @@ Se utilizó **text-shadow** en el título y las etiquetas para que el texto resa
 Como ejemplo de desbordamiento, se organizó el contenido dentro del formulario para que no se salga de la página y se vea ordenado.
 
 Como parte del diseño, se eligió un fondo verde, un formulario blanco con sombras y efectos al pasar el cursor sobre algunos elementos para hacerlo más atractivo visualmente.
-
-
----
-
 
 3. W3Schools. CSS Shadow Effects. https://www.w3schools.com/css/css3_shadows.asp
 
