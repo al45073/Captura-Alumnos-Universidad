@@ -85,6 +85,15 @@ En la página de modificación de alumnos se aplicaron estas propiedades para me
 
 Las propiedades **box-shadow** y **text-shadow** son herramientas muy útiles dentro de CSS para mejorar la apariencia de una página web. Su uso permite crear diseños más modernos, atractivos y profesionales, además de facilitar la organización visual de la información. Gracias a estas propiedades, es posible destacar elementos importantes y ofrecer una mejor experiencia a los usuarios.
 
+# Comentario
+
+Se utilizó **text-shadow** en el título y las etiquetas para que el texto resaltara más. También se aplicó **box-shadow** al formulario, botones y campos de texto para darles una apariencia más moderna.
+
+Como ejemplo de desbordamiento, se organizó el contenido dentro del formulario para que no se salga de la página y se vea ordenado.
+
+Como parte del diseño, se eligió un fondo verde, un formulario blanco con sombras y efectos al pasar el cursor sobre algunos elementos para hacerlo más atractivo visualmente.
+
+
 ---
 
 
