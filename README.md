@@ -80,5 +80,4 @@ Se utilizó **text-shadow** en el título y las etiquetas para que el texto resa
 Como ejemplo de desbordamiento, se organizó el contenido dentro del formulario para que no se salga de la página y se vea ordenado.
 
 Como parte del diseño, se eligió un fondo verde, un formulario blanco con sombras y efectos al pasar el cursor sobre algunos elementos para hacerlo más atractivo visualmente.
-3. W3Schools. CSS Shadow Effects. https://www.w3schools.com/css/css3_shadows.asp
 
